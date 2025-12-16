@@ -36,7 +36,7 @@ The solution uses only the sensors and APIs specified in the problem statement.
 
 This produces stable state estimates required for low-drift hovering.
 
-## **7. Acknowledgments**
+## **4. Acknowledgments**
 
 Developed by **Team 24** for Inter IIT Tech Meet 14.0, using the Pluto platform and the MagisV2 firmware environment provided by **Drona Aviation**.
 
