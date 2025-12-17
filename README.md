@@ -1,5 +1,5 @@
 # Drona_Aviation_InterIIT_14.0
-Our work on the low prep problem statement by Drona Aviation at Inter IIT Tech meet 14.0 Patna.
+
 <img width="904" height="663" alt="image" src="https://github.com/user-attachments/assets/d187f376-2b2b-4692-b76c-cb41513670ef" />
 
 # **MagisV2-Firmware-Team24**
