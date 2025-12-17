@@ -18,7 +18,7 @@ Key capabilities achieved:
 
 The solution uses only the sensors and APIs specified in the problem statement.
 
-## **3. Sensor Fusion Summary**
+## **2. Sensor Fusion Summary**
 
 ### **Altitude Fusion**
 
@@ -36,7 +36,7 @@ The solution uses only the sensors and APIs specified in the problem statement.
 
 This produces stable state estimates required for low-drift hovering.
 
-## **4. Acknowledgments**
+## **3. Acknowledgments**
 
 Developed by **Team 24** for Inter IIT Tech Meet 14.0, using the Pluto platform and the MagisV2 firmware environment provided by **Drona Aviation**.
 
